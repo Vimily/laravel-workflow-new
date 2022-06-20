@@ -5,8 +5,8 @@
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
-        "symfony/workflow": "^5.0",
-        "symfony/process": "^5.0",
+        "symfony/workflow": "^6.0",
+        "symfony/process": "^6.0",
         "symfony/event-dispatcher": "^5.0",
         "illuminate/console": "8.* || 9.*",
         "illuminate/support": "8.* || 9.*"
